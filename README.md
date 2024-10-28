@@ -1,5 +1,5 @@
 # Workforce Dynamics: Visualizing HR Employee Attrition
-<img width="1000" alt="HR_Attrition_Dashboard" src="https://github.com/user-attachments/assets/53cdc405-1f70-4c88-b317-660d58646c5b">
+<img width="1000" alt="HR_Attrition_Dashboard" src="https://github.com/user-attachments/assets/9d86de24-4b6d-4e84-90fc-d0cf06cb5fd7">
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -98,8 +98,7 @@ This HR Analytics Dashboard is designed to provide HR managers and business lead
 The dashboard incorporates interactive filters, allowing users to drill down into specific segments such as department, location, and job level. This enables HR professionals to gain detailed insights tailored to their needs.
 
 ## Visual Demonstration
-For a comprehensive look at the dashboard in action, watch the overview video:
-ADD DASHBOARD VEDIO AND
+For a comprehensive look at the dashboard in action,
 Access the Dashboard -> [HR-Employee Attrition Dashboard](https://public.tableau.com/app/profile/priyanka.pondugula/viz/HRANALYTICSDASHBOARD_17282840740390/HRANALYTICSDASHBOARD?publish=yes)
 
 ## Insights and Benefits
